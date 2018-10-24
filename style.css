@@ -1,0 +1,11 @@
+body {
+    background-color: lightblue;
+}
+input {
+    position: absolute;
+}
+
+input .type {
+    color: blue;
+
+}
